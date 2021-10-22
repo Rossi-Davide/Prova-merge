@@ -24,7 +24,9 @@ namespace Test_git
         {
             InitializeComponent();
 
+
             MessageBox.Show("Prova");
+
         }
     }
 }
